@@ -3,12 +3,14 @@
 ## 研究方向
 + rust 
     + [安装](docs/rust/install.md)
+    + [编译](docs/rust/rustc.md)
 + wasm 
 + deno  
 
 
 ## vscode 
 + [rust-analyzer](https://rust-analyzer.github.io/)
++ ext:toml
 ```json 
 // setting.json
 {

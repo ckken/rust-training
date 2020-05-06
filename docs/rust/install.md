@@ -7,12 +7,14 @@
 these changes will be reverted.
 
 + Cargo：Rust 的构建工具和包管理器
-    + cargo build 可以构建项目
-    + cargo run 可以运行项目
-    + cargo test 可以测试项目
-    + cargo doc 可以为项目构建文档
-    + cargo publish 可以将库发布到 [crates.io](https://crates.io/)。
+    + `cargo build` 可以构建项目
+    + `cargo run` 可以运行项目
+    + `cargo test` 可以测试项目
+    + `cargo doc` 可以为项目构建文档
+    + `cargo publish` 可以将库发布到 [crates.io](https://crates.io/)。
     + `cargo --version` 获取版本信息
+    + `cargo run --release` 编译成可执行文件
+    + `rustc hello.rs` 手动打包
 
 + 项目管理
     + 创建项目 `cargo new hello-rust`    
