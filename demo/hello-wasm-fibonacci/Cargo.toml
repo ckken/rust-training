@@ -1,0 +1,13 @@
+[package]
+name = "hello-wasm-fibonacci"
+version = "0.1.0"
+authors = ["bennyshi <740004544@qq.com>"]
+description = "A sample project with wasm-pack"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/flyyuan/hello-wasm"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+wasm-bindgen = "0.2"
