@@ -20,7 +20,7 @@ fn fibonacci(n: u32) -> u32 {
 }
 
 #[wasm_bindgen]
-pub fn get_fibonacci(n: u32) {
-    alert(&format!("Fibonacci: {}", fibonacci(n)));
+pub fn get_fibonacci(n: u32) -> u32 {
+    return fibonacci(n);
 }
 
