@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@bennyshi/hello-wasm@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@bennyshi/hello-wasm/-/hello-wasm-0.1.0.tgz#372b2b4405d24b31e00843a9f48dff38b872fded"
-  integrity sha512-ZGYziuxy1ZWo8gQHbhb37pCuRc1InmzL9k+yzFMPmcbUgdFR8H/irFT3S0fc0DrkELQuMYxx+FwW8fgfwTkn+Q==
+"@bennyshi/hello-wasm-fibonacci@^0.1.0":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@bennyshi/hello-wasm-fibonacci/-/hello-wasm-fibonacci-0.1.5.tgz#16b1ef44c52383eacce7508b89f96220a3600034"
+  integrity sha512-pxUB8cE5dIg0OAR8koMwX2L6zOXBu97t3VboYrLcDKD7TGFkwjfNXLMT7/lLeCnBiYoMlMnxNLz1aJ/Xqf9IsQ==
 
 "@types/events@*":
   version "3.0.0"
@@ -3792,9 +3792,9 @@ xtend@^4.0.0, xtend@~4.0.1:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yallist@^3.0.2:
   version "3.1.1"
