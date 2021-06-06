@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@bennyshi/hello-wasm@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@bennyshi/hello-wasm/-/hello-wasm-0.1.0.tgz#372b2b4405d24b31e00843a9f48dff38b872fded"
-  integrity sha512-ZGYziuxy1ZWo8gQHbhb37pCuRc1InmzL9k+yzFMPmcbUgdFR8H/irFT3S0fc0DrkELQuMYxx+FwW8fgfwTkn+Q==
+"@bennyshi/hello-wasm-fibonacci@^0.1.0":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@bennyshi/hello-wasm-fibonacci/-/hello-wasm-fibonacci-0.1.5.tgz#16b1ef44c52383eacce7508b89f96220a3600034"
+  integrity sha512-pxUB8cE5dIg0OAR8koMwX2L6zOXBu97t3VboYrLcDKD7TGFkwjfNXLMT7/lLeCnBiYoMlMnxNLz1aJ/Xqf9IsQ==
 
 "@types/events@*":
   version "3.0.0"
@@ -3780,9 +3780,9 @@ wrappy@1:
   integrity sha1-tSQ9jz7BqjXxNkYFvA0QNuMKtp8=
 
 ws@^6.2.1:
-  version "6.2.1"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.1.tgz#442fdf0a47ed64f59b6a5d8ff130f4748ed524fb"
-  integrity sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==
+  version "6.2.2"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-6.2.2.tgz#dd5cdbd57a9979916097652d78f1cc5faea0c32e"
+  integrity sha512-zmhltoSR8u1cnDsD43TX59mzoMZsLKqUweyYBAIvTngR3shc0W6aOZylZmq/7hqyVxPdi+5Ud2QInblgyE72fw==
   dependencies:
     async-limiter "~1.0.0"
 
