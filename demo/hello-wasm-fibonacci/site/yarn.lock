@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@bennyshi/hello-wasm@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@bennyshi/hello-wasm/-/hello-wasm-0.1.0.tgz#372b2b4405d24b31e00843a9f48dff38b872fded"
-  integrity sha512-ZGYziuxy1ZWo8gQHbhb37pCuRc1InmzL9k+yzFMPmcbUgdFR8H/irFT3S0fc0DrkELQuMYxx+FwW8fgfwTkn+Q==
+"@bennyshi/hello-wasm-fibonacci@^0.1.0":
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/@bennyshi/hello-wasm-fibonacci/-/hello-wasm-fibonacci-0.1.5.tgz#16b1ef44c52383eacce7508b89f96220a3600034"
+  integrity sha512-pxUB8cE5dIg0OAR8koMwX2L6zOXBu97t3VboYrLcDKD7TGFkwjfNXLMT7/lLeCnBiYoMlMnxNLz1aJ/Xqf9IsQ==
 
 "@types/events@*":
   version "3.0.0"
@@ -2241,9 +2241,9 @@ minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 mississippi@^3.0.0:
   version "3.0.0"
